@@ -1,6 +1,5 @@
 pipeline {
     agent any
-
         stage('Terraform Init') {
             steps {        
             }
